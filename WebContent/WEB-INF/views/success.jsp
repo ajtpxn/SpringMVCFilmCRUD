@@ -11,8 +11,8 @@
 <body>
 
 
-<h1>Perfectenschlag</h1>
-<h3 id = "message">Your change was successful</h3>
+<h1>Success</h1>
+<h3 id = "message">Your change was successful.</h3>
 
 
 <form action="index.do" method="GET">
@@ -29,8 +29,6 @@
 <br>
 <br>
 
-
-<embed src="images/office2.mp3">
 
 </body>
 </html>
